@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Bookstore</b></h3>
+  <h3><b>React capstone project - Metrics webapp</b></h3>
 
 </div>
 
@@ -26,11 +26,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Bookstore] <a name="about-project"></a>
+# 📖 [React capstone project - Metrics webapp] <a name="about-project"></a>
 
-> This is a bookstore website where users can display a list of books, and add and remove books from the list. Built with React, Redux and CSS.
+> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that will be created making use of React and Redux. Built with React, Redux and CSS.
 
-**[Bookstore]** is...
+**[React capstone project - Metrics webapp]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,17 +53,16 @@
 > Key features of the application.
 
 - **[Use Gitflow]**
-- **[Parse a Zeplin design to create a UI]**
-- **[Display a list of books]**
-- **[Add a book]**
-- **[Remove a selected book]**
+- **[Home page]**
+- **[Category filtering]**
+- **[Details page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://bookstore-cms-djr0.onrender.com/)
-- [Source Link](https://github.com/lenkon/bookstore)
+- [Live Demo Link](Coming soon..)
+- [Source Link](https://github.com/lenkon/react-capstone-project-metrics-webapp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +81,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ``` 
-  $ git clone https://github.com/lenkon/bookstore
+  $ git clone https://github.com/lenkon/react-capstone-project-metrics-webapp
 
   $ cd bookstore
 ```
