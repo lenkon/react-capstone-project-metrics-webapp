@@ -1,0 +1,25 @@
+.showCard {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style: none;
+  font-size: 1.2rem;
+  text-align: center;
+  color: rgb(72, 71, 69);
+}
+
+.showCard:hover {
+  opacity: 0.7;
+}
+
+.showImage {
+  border-radius: 10px;
+  background-color: azure;
+}
+
+@media (max-width: 500px) {
+  .showImage {
+    width: 90%;
+    height: auto;
+  }
+}

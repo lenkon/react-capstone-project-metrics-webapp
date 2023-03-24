@@ -1,0 +1,48 @@
+.detailsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.col {
+  max-width: 380px;
+  min-width: 240px;
+  margin: 15px;
+  height: 85%;
+}
+
+.showImg {
+  border-radius: 12px;
+}
+
+.showDetails {
+  font-size: 1.2rem;
+}
+
+.firstItem {
+  margin-top: 18px;
+}
+
+.button {
+  display: flex;
+  background-color: #d25891;
+  box-shadow: rgb(225, 211, 222) -1px 1px 3px 3px;
+  cursor: pointer;
+  width: 100px;
+  border-radius: 8px;
+  text-align: center;
+  height: 36px;
+  font-size: 24px;
+  padding-right: 12px;
+}
+
+.button:hover {
+  opacity: 0.8;
+  background-color: #ca3973;
+}
+
+@media (max-width: 500px) {
+  .button {
+    display: none;
+  }
+}

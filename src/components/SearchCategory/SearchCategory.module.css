@@ -1,0 +1,14 @@
+.inputCategory {
+  background-color: rgb(246, 217, 217);
+  max-width: 280px;
+  min-width: 240px;
+  border-radius: 6px;
+  margin: 24px 0;
+  height: 38px;
+  padding-left: 10px;
+}
+
+.categoryContainer {
+  display: flex;
+  justify-content: center;
+}
