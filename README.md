@@ -28,7 +28,7 @@
 
 # 📖 [React capstone project - Metrics webapp] <a name="about-project"></a>
 
-> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that will be created making use of React and Redux. Built with React, Redux and CSS.
+> This React capstone project is about building a mobile web application to check a list of metrics (numeric values) that will be created using React and Redux. This website list the genres of popular shows and allows to see the shows descriptions.
 
 **[React capstone project - Metrics webapp]** is...
 
@@ -53,9 +53,9 @@
 > Key features of the application.
 
 - **[Use Gitflow]**
-- **[Home page]**
+- **[Single page application]**
 - **[Category filtering]**
-- **[Details page]**
+- **[Show details page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +139,7 @@ If you like this project please rate and give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for sharing the tools and requirements.
+I would like to thank Microverse for sharing the tools and requirements, and TMDB for the APIs used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,0 +1,48 @@
+.title {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+.showContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 230px);
+  gap: 35px;
+  padding: 35px;
+  justify-content: center;
+}
+
+.showCard {
+  list-style: none;
+  font-size: 1.2rem;
+  text-align: center;
+  border-radius: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: #f25393;
+  box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+}
+
+.showCard:hover {
+  opacity: 0.8;
+  background-color: #d25891;
+}
+
+@media (max-width: 500px) {
+  .showCard {
+    border-radius: 0;
+    height: 200px;
+  }
+
+  .showContainer {
+    grid-template-columns: auto auto;
+    gap: 0;
+    padding: 40px 0 0 0;
+    justify-content: normal;
+  }
+}
