@@ -61,7 +61,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming soon..)
+- [Live Demo Link](https://react-capstone-project-metrics-webapp.onrender.com)
+- [Video Demo Link](https://www.loom.com/share/be5ac50475594070a3e202e5c1ab2916)
 - [Source Link](https://github.com/lenkon/react-capstone-project-metrics-webapp)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
