@@ -140,7 +140,7 @@ If you like this project please rate and give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for sharing the tools and requirements, and TMDB for the APIs used.
+I would like to thank Microverse for sharing the tools and requirements, and TMDB for the APIs used. Also, I would like to thank [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio) for the original design idea.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
